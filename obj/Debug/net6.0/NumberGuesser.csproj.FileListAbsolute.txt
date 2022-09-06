@@ -1,0 +1,15 @@
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.csproj.AssemblyReference.cache
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.AssemblyInfoInputs.cache
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.AssemblyInfo.cs
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/NumberGuesser/bin/Debug/net6.0/NumberGuesser
+/home/saint/Desktop/NumberGuesser/bin/Debug/net6.0/NumberGuesser.deps.json
+/home/saint/Desktop/NumberGuesser/bin/Debug/net6.0/NumberGuesser.runtimeconfig.json
+/home/saint/Desktop/NumberGuesser/bin/Debug/net6.0/NumberGuesser.dll
+/home/saint/Desktop/NumberGuesser/bin/Debug/net6.0/NumberGuesser.pdb
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.dll
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/refint/NumberGuesser.dll
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.pdb
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/NumberGuesser.genruntimeconfig.cache
+/home/saint/Desktop/NumberGuesser/obj/Debug/net6.0/ref/NumberGuesser.dll
